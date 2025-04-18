@@ -1,0 +1,7 @@
+https://safikumar00.github.io/assets/main.png
+main-img
+https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css
+Api Link:`https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${apiKey}`
+"https://safikumar00.github.io/assets/bg.png"
+url("https://safikumar00.github.io/assets/bg.png");
+
